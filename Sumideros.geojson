@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Sumideros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32719" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ 346743.745386573951691, 6293793.525087101384997 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ 346701.958452632883564, 6293597.253246871754527 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ 346700.105716832273174, 6293588.921397945843637 ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "Point", "coordinates": [ 346688.018554496171419, 6293595.272357180714607 ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "Point", "coordinates": [ 346644.840227054664865, 6293422.810227931477129 ] } },
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "Point", "coordinates": [ 346665.257421779271681, 6293427.649458420462906 ] } },
+{ "type": "Feature", "properties": { "id": 9 }, "geometry": { "type": "Point", "coordinates": [ 346663.282986239471938, 6293417.695042574778199 ] } },
+{ "type": "Feature", "properties": { "id": 10 }, "geometry": { "type": "Point", "coordinates": [ 346623.973593797476497, 6293322.80634699575603 ] } }
+]
+}
