@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Escuelas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32719" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ 346676.3964664049563, 6293461.775758908130229 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ 346690.636822393978946, 6293530.174250277690589 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ 346662.31711876380723, 6293392.835969998501241 ] } }
+]
+}

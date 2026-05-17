@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Divicion_tramos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32719" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "id": 1, "order": 0, "Diagnostico": "Optimo", "ICV": 1.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 346734.293043036246672, 6293796.398350210860372 ], [ 346713.352798341307789, 6293698.615395908243954 ] ] } },
+{ "type": "Feature", "properties": { "fid": 2, "id": 1, "order": 1, "Diagnostico": "Critico", "ICV": 0.4 }, "geometry": { "type": "LineString", "coordinates": [ [ 346713.352798341307789, 6293698.615395908243954 ], [ 346692.412553646427114, 6293600.832441605627537 ] ] } },
+{ "type": "Feature", "properties": { "fid": 3, "id": 1, "order": 2, "Diagnostico": "Saturado", "ICV": 0.6 }, "geometry": { "type": "LineString", "coordinates": [ [ 346692.412553646427114, 6293600.832441605627537 ], [ 346671.47230895148823, 6293503.049487303942442 ] ] } },
+{ "type": "Feature", "properties": { "fid": 4, "id": 1, "order": 3, "Diagnostico": "Saturado", "ICV": 0.6 }, "geometry": { "type": "LineString", "coordinates": [ [ 346671.47230895148823, 6293503.049487303942442 ], [ 346650.532064256549347, 6293405.266533001326025 ] ] } },
+{ "type": "Feature", "properties": { "fid": 5, "id": 1, "order": 4, "Diagnostico": "Optimo", "ICV": 0.8 }, "geometry": { "type": "LineString", "coordinates": [ [ 346650.532064256549347, 6293405.266533001326025 ], [ 346629.591819561668672, 6293307.483578698709607 ] ] } }
+]
+}

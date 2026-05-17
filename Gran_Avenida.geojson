@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gran_Avenida",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32719" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 346734.293043029669207, 6293796.398350182920694 ], [ 346627.79876607877668, 6293299.11070364061743 ] ] ] } }
+]
+}
