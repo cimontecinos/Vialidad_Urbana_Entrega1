@@ -1,0 +1,12 @@
+TIPO_DE_USO,CANTIDAD_DE_PREDIOS,METROS_CUADRADOS_TOTALES
+H: Habitacional,1969,125406
+Z: Estacionaminetos,1313,19034
+L : Bodegas,1029,4618
+O: Oficinas,166,33531
+S: Salud,17,2600
+C: Comercio,14,3891
+E: Educacion y cultura,3,1754
+I: Industria,3,930
+T: Transporte,2,6002
+Q: Culto,1,3717
+V:  Otros No considerados,1,1152
