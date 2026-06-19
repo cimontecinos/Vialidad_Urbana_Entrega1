@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configuration>
+    <input>
+        <net-file value="Sanmi_Semaforos.net.xml" />
+        <route-files value="routes_aumentadas.rou.xml" />
+    </input>
+
+    <time>
+        <begin value="0" />
+        <end value="3600" />
+    </time>
+</configuration>
